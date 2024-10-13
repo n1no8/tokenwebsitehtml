@@ -37,3 +37,7 @@ body {
 .w-full button:hover .svgg path {
     fill: black;
 }
+
+body {
+    background-color: #f08CE8; /* You can use a hex code, RGB, or a named color */
+}
